@@ -3,3 +3,6 @@
 !gradle
 /.gradle
 /build
+/gradlew.bat
+/settings.gradle
+/gradlew
